@@ -1,0 +1,8 @@
+Order 1492625587873
+Customer: John Brown
+E-Mail: johnb@mail.com
+Telephone: 0123456789
+Products: 
+7xToothbrush = 49.0
+---------------------------
+Total price: 49.0

@@ -1,0 +1,10 @@
+Order 1492707080263
+Customer: Jenna White
+E-Mail: jennaw@mail.com
+Telephone: 0789456123
+Products: 
+5xBiscuits = 15.0
+1xMilk = 4.5
+2xToothbrush = 14.0
+---------------------------
+Total price: 33.5

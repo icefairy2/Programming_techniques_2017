@@ -1,0 +1,9 @@
+Order 1492592422388
+Customer: Jenna White
+E-Mail: jennaw@mail.com
+Telephone: 0789456123
+Products: 
+4xToilet paper = 48.0
+5xToothbrush = 35.0
+---------------------------
+Total price: 83.0

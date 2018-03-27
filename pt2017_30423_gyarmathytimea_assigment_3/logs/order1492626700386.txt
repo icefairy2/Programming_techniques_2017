@@ -1,0 +1,8 @@
+Order 1492626700386
+Customer: Herbert Black
+E-Mail: herbertb@mail.com
+Telephone: 5647891230
+Products: 
+23xToothbrush = 161.0
+---------------------------
+Total price: 161.0

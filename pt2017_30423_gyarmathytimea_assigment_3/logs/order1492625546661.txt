@@ -1,0 +1,8 @@
+Order 1492625546661
+Customer: Jenna White
+E-Mail: jennaw@mail.com
+Telephone: 0789456123
+Products: 
+7xToilet paper = 84.0
+---------------------------
+Total price: 84.0

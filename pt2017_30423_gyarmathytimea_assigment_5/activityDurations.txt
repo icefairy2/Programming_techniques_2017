@@ -1,0 +1,3 @@
+Leaving	: 99884
+Sleeping: 471811
+Spare_Time/TV: 512935

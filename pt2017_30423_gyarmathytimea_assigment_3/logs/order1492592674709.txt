@@ -1,0 +1,9 @@
+Order 1492592674709
+Customer: Jenna White
+E-Mail: jennaw@mail.com
+Telephone: 0789453151
+Products: 
+7xBiscuits = 21.0
+10xToilet paper = 120.0
+---------------------------
+Total price: 141.0

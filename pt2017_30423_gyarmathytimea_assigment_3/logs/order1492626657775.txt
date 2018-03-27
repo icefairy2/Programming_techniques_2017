@@ -1,0 +1,8 @@
+Order 1492626657775
+Customer: Jenna White
+E-Mail: jennaw@mail.com
+Telephone: 0789456123
+Products: 
+33xToothbrush = 231.0
+---------------------------
+Total price: 231.0

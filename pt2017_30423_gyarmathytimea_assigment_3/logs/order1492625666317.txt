@@ -1,0 +1,8 @@
+Order 1492625666317
+Customer: John Brown
+E-Mail: johnb@mail.com
+Telephone: 0123456789
+Products: 
+1xToilet paper = 12.0
+---------------------------
+Total price: 12.0

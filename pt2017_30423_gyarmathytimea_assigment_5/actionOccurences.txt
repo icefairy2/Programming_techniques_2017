@@ -1,0 +1,8 @@
+Leaving	: 1
+Breakfast	: 1
+Sleeping: 1
+Grooming	: 3
+Showering	: 1
+Spare_Time/TV: 6
+Toileting	: 2
+Lunch: 1

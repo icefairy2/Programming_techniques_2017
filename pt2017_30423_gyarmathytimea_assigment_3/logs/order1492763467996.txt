@@ -1,0 +1,10 @@
+Order 1492763467996
+Customer: John Brown
+E-Mail: johnb@mail.com
+Telephone: 0123456789
+Products: 
+2xToothbrush = 14.0
+5xToilet paper = 60.0
+2xMilk = 9.0
+---------------------------
+Total price: 83.0
